@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 A simple two-player Tic Tac Toe game that runs in the browser. No installation or internet connection required.
-<img width="879" height="912" alt="image" src="https://github.com/user-attachments/assets/1e3d3279-95ff-4c8f-acda-de4e446356cb" />
+<img width="440" height="456" alt="image" src="https://github.com/user-attachments/assets/1e3d3279-95ff-4c8f-acda-de4e446356cb" />
 
 ## How to Play
 
